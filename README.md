@@ -1,4 +1,4 @@
-# amd64 solution by dsmith (https://dacvs.neocities.org/)
+# amd64 solution by @dacvs (https://dacvs.neocities.org/)
 
 ![Algorithm](https://img.shields.io/badge/Algorithm-base-green)
 ![Faithfulness](https://img.shields.io/badge/Faithful-yes-green)
